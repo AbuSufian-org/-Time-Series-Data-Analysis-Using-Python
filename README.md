@@ -9,7 +9,8 @@ Key Features:
 4. Data Visualization: Plotted a line chart showing both the original 'Value' data and the 7-day rolling average for comparison.
 
 Technologies Used:
--Python
--Pandas for time series manipulation.
--Matplotlib for data visualization.
+Python
+Pandas for time series manipulation.
+Matplotlib for data visualization.
+
 Feel free to explore the code, fork the repo, and leave feedback!
